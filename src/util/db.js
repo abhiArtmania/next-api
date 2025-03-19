@@ -1,0 +1,19 @@
+export const UserList = [{
+    id:1,
+    name:'Abhishek',
+    age:31,
+    address:'Varanasi',
+    email:'abhi@gmail.com'
+},{
+    id:2,
+    name:'Prateek',
+    age:32,
+    address:'Akberpur',
+    email:'prateek@gmail.com'
+},{
+    id:3,
+    name:'Deepak',
+    age:33,
+    address:'Azamghar',
+    email:'deepak@gmail.com'
+}]

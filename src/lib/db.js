@@ -1,0 +1,2 @@
+const { DB_USERNAME, DB_PASSWORD } = process.env
+export const connectionStr = `mongodb+srv://${DB_USERNAME}:${DB_PASSWORD}@cluster0.yo1an.mongodb.net/productDB?retryWrites=true&w=majority&appName=Cluster0`
